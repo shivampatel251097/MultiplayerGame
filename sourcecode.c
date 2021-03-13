@@ -8,7 +8,7 @@ void detail();
 void game();
 void detail()
 {
-        printf("\t\t\t\t***********************WELCOME TO ONLINE MULTIPLAYER GAME **************************\n");
+        printf("\t\t\t\t***********************WELCOME TO ONLINE MULTIPLAYER GAME**************************\n");
         printf("This Online Multiplayer game is designed by:");
         printf("\n\n\t\t\t\t\t\tName-Shivam Patel\n\t\t\t\t\t\tSection-K1607\n\t\t\t\t\t\tRoll No.-A07\n\t\t\t\t\t\tReg No-11611415\n");
 }
